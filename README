@@ -4,7 +4,6 @@
 Mada Center contributed to the "Liblouis library" by enhancing the simple Arabic Braille tables, abbreviations, and contractions. In addition, we developed the new Arabic 8-dots table for mathematics and science, and 8-dot computer braille, as well as simplified lessons to learn to read and write in Arabic Braille.
 For more information please visit: https://braille.madaportal.org/?lang=en
 
-[![Watch the video](https://madaportal.org/videoIcon.png)](https://madaqatarorg-my.sharepoint.com/personal/aothman_mada_org_qa/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Faothman%5Fmada%5Forg%5Fqa%2FDocuments%2F2021%2F4%2E2%20%2D%20MIP%202021%2FWP%2311%20%2D%20Unified%20Arabic%20Braille%2FBraille%2DProject%2Emp4&parent=%2Fpersonal%2Faothman%5Fmada%5Forg%5Fqa%2FDocuments%2F2021%2F4%2E2%20%2D%20MIP%202021%2FWP%2311%20%2D%20Unified%20Arabic%20Braille&originalPath=aHR0cHM6Ly9tYWRhcWF0YXJvcmctbXkuc2hhcmVwb2ludC5jb20vOnY6L2cvcGVyc29uYWwvYW90aG1hbl9tYWRhX29yZ19xYS9FVEtGVE1nTWh3MUF0Wm5jYXFNQTZPRUJBWHdMd0xJZGdDM19Nbzl6X3AyNWF3P3J0aW1lPXJaY3kzOHgxMlVn)
 
 # Introduction
 
